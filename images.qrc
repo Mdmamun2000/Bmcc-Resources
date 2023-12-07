@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/rrsources">
+        <file>img/Bmccfrontpage.jpg</file>
+        <file>img/joanna-kosinska-PbgY3ptgA4A-unsplash.jpg</file>
+        <file>img/javier-trueba-iQPr1XkF5F0-unsplash.jpg</file>
+        <file>img/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg</file>
+        <file>img/cat-han-W_5Eakb1598-unsplash.jpg</file>
+        <file>img/3d-33q6a18khxgta4ll.jpg</file>
+        <file>img/alMut5u.jpg</file>
+        <file>img/best-button-colors(7).png</file>
+        <file>img/gradient-neon-button-glowing-neon-button-png.webp</file>
+        <file>img/Screenshot 2023-12-04 at 5.43.38 PM.png</file>
+        <file>img/Screenshot 2023-12-04 at 5.48.00 PM.png</file>
+        <file>img/Screenshot 2023-12-04 at 5.49.22 PM.png</file>
+        <file>img/Screenshot 2023-12-04 at 5.51.13 PM.png</file>
+        <file>img/Screenshot 2023-12-04 at 5.51.42 PM.png</file>
+        <file>img/Screenshot 2023-12-04 at 9.26.26 PM.png</file>
+        <file>img/4900299.jpeg</file>
+        <file>img/lukas-blazek-EWDvHNNfUmQ-unsplash.jpg</file>
+    </qresource>
+</RCC>
